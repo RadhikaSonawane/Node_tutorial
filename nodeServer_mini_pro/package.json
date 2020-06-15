@@ -1,0 +1,11 @@
+{
+  "name": "nodeserver_mini_pro",
+  "version": "1.0.0",
+  "description": "Node mini project for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
